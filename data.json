@@ -1,0 +1,46 @@
+{
+  "users": {
+    "1": {
+      "id": "1",
+      "email": "admin@example.com",
+      "pw": {
+        "salt": "327c8194745424274a485d78bbf22108",
+        "hash": "d1cf09e433c33bcb0a9b9b8086f67611733e84a73da5bc8f9d08443a1ed05636"
+      },
+      "roles": [
+        "admin"
+      ],
+      "created_at": "2025-08-30T08:23:07.031419Z",
+      "banned": false,
+      "profile": {
+        "name": "",
+        "bio": ""
+      }
+    },
+    "2": {
+      "id": "2",
+      "email": "fygudjiospk",
+      "pw": {
+        "salt": "b8f070a8af3bb5f44586295481ebca61",
+        "hash": "23c04e9873219251e0bac8a9cfdd127daa0c0ab36a3b1394c6c1fc8586e29cbb"
+      },
+      "roles": [
+        "admin"
+      ],
+      "created_at": "2025-08-30T08:23:28.817415Z",
+      "banned": false,
+      "profile": {
+        "name": "",
+        "bio": ""
+      }
+    }
+  },
+  "courses": {},
+  "enrollments": {},
+  "progress": {},
+  "reviews": {},
+  "next_ids": {
+    "user": 3,
+    "course": 1
+  }
+}
